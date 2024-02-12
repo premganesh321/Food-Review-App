@@ -5,7 +5,6 @@ This is a food review app developed by our team for our mess facility. The app a
 ## Features 🌟
 
 - **Tkinter Interface:** The app has a user-friendly interface built using Tkinter, making it easy to navigate and use.
-
 - **MySQL Database:** Reviews and feedback provided by users are stored in a MySQL database, ensuring data integrity and security.
 
 ## Usage 📝
@@ -17,6 +16,7 @@ This is a food review app developed by our team for our mess facility. The app a
 
 ## Video Demo 📹
 
-[Click here to watch the video demo](https://github.com/premganesh321/Food-Review-App/blob/main/DemoVideo.mp4)
+[![Food Review App Demo](https://img.youtube.com/vi/di20F1mJZwU/0.jpg)](https://www.youtube.com/watch?v=di20F1mJZwU)
+
 
 
